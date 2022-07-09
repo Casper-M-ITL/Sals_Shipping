@@ -1,2 +1,1 @@
-# Sals_Shipping
-Project_2: Sal's Shipping
+# Project 2: Sal's Shipping
